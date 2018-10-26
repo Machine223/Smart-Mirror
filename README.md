@@ -1,4 +1,5 @@
-# Smart-Mirror
+# Smart-Mirror2.0
+
 Raspberry powered mirror which can display the news, weather, and time.
 
 ## Installation and Updating
